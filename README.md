@@ -18,21 +18,21 @@
     <td align="center">Guardian</td>
     <td align="center">Have a Contest Rating >=1600 and finish in the top 5% of a contest</td>
     <td align="center">Competition Medals</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Competition-Medals/PNG/knight.png" width="200"></td>
     <td align="center">Knight</td>
     <td align="center">Have a Contest Rating >=1600 and finish in the top 25% of a contest</td>
     <td align="center">Competition Medals</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-6.png" width="200"></td>
     <td align="center">Jun 2025 Badge</td>
     <td align="center">Submit code daily in June 2025</td>
     <td align="center">Daily Medals</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/Introduction_to_Pandas_Badge.png" width="200"></td>
@@ -53,28 +53,28 @@
     <td align="center">30 Days of JavaScript</td>
     <td align="center">Complete the "30 Days of JavaScript" study plan</td>
     <td align="center">Study Plan Medals</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/Top_Interview_150.png" width="200"></td>
     <td align="center">Top Interview 150</td>
     <td align="center">Complete the "Top Interview 150" study plan</td>
     <td align="center">Study Plan Medals</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/LeetCode_75.png" width="200"></td>
     <td align="center">LeetCode 75</td>
     <td align="center">Complete the "LeetCode 75" study plan</td>
     <td align="center">Study Plan Medals</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/Top_100_Liked.png" width="200"></td>
     <td align="center">Top 100 Liked</td>
     <td align="center">Complete the "Top 100 Liked" study plan</td>
     <td align="center">Study Plan Medals</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/Top_SQL_50.png" width="200"></td>
@@ -88,77 +88,77 @@
     <td align="center">Premium Algo 100</td>
     <td align="center">Complete the "Premium Algo 100" study plan</td>
     <td align="center">Study Plan Medals</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/Premium_SQL_50.png" width="200"></td>
     <td align="center">Advanced SQL 50</td>
     <td align="center">Complete the "Advanced SQL 50" study plan</td>
     <td align="center">Study Plan Medals</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/Programming_Skills.png" width="200"></td>
     <td align="center">Programming Skills</td>
     <td align="center">Complete the "Programming Skills" study plan</td>
     <td align="center">Study Plan Medals</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/Dynamic_Programming.png" width="200"></td>
     <td align="center">Dynamic Programming</td>
     <td align="center">Complete the "Dynamic Programming" study plan</td>
     <td align="center">Study Plan Medals</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/Dynamic_Programming_Grandmaster.png" width="200"></td>
     <td align="center">Dynamic Programming Grandmaster</td>
     <td align="center">Complete the "Dynamic Programming Grandmaster" study plan</td>
     <td align="center">Study Plan Medals</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/Graph_Theory.png" width="200"></td>
     <td align="center">Graph Theory</td>
     <td align="center">Complete the "Graph Theory" study plan</td>
     <td align="center">Study Plan Medals</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/Binary_Search.png" width="200"></td>
     <td align="center">Binary Search</td>
     <td align="center">Complete the "Binary Search" study plan</td>
     <td align="center">Study Plan Medals</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Submission-Days/PNG/2k.png" width="200"></td>
     <td align="center">2000 Days Badge</td>
     <td align="center">Submit code on 2000+ distinct days</td>
     <td align="center">Submission Days</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Submission-Days/PNG/1k.png" width="200"></td>
     <td align="center">1000 Days Badge</td>
     <td align="center">Submit code on 1000+ distinct days</td>
     <td align="center">Submission Days</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Submission-Days/PNG/500.png" width="200"></td>
     <td align="center">500 Days Badge</td>
     <td align="center">Submit code on 500+ distinct days</td>
     <td align="center">Submission Days</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Submission-Days/PNG/365.png" width="200"></td>
     <td align="center">365 Days Badge</td>
     <td align="center">Submit code on 365+ distinct days</td>
     <td align="center">Submission Days</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/2024-lg.png" width="200"></td>
