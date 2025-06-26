@@ -1,6 +1,6 @@
 # 🏆 LeetCode Badges 🏆
 
-### This repository aims to compile an exhaustive list of LeetCode.com badges.
+### This repository aims to compile an exhaustive list of LeetCode.com badges.(will be updated as the badges will be achieved in leetcode journey by me)
 
 <br>
 
